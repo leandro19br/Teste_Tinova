@@ -1,4 +1,4 @@
-package br.com.tinnova.ordenacao.teste;
+package br.com.tinnova.calcula.teste;
 
 import java.math.BigDecimal;
 

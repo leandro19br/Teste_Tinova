@@ -1,4 +1,4 @@
-package br.com.tinnova.calcula.teste;
+package br.com.tinnova.ordenacao.teste;
 
 import org.junit.Assert;
 import org.junit.Test;
